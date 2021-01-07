@@ -1,19 +1,13 @@
-# sidesoft-producto
+# sidesoft-frontend
 
-## Project setup
+## 1. Ejecutar el siguiente comando
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 2. Levantar el server del proyecto vue
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
